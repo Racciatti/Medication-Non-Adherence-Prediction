@@ -1,0 +1,2 @@
+,Best_Params,ROC_AUC,F1_Score,Precision,Recall,Brier_Score,True_Positives,False_Positives,True_Negatives,False_Negatives,Training_Time_sec
+LightGBM,"{'learning_rate': 0.1, 'max_depth': -1, 'min_child_samples': 20, 'n_estimators': 300, 'num_leaves': 63, 'subsample': 0.8}",0.7387512274013748,0.532150776053215,0.631578947368421,0.45977011494252873,0.2324613397019735,120,70,328,141,53.88
